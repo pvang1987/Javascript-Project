@@ -26,3 +26,6 @@ THEN the password is either displayed in an alert or written to the page
 ![Alt text](assets/JavascriptProject_Image.png)
 
 
+
+Repository Link: https://github.com/pvang1987/Javascript-ProjectLinks
+Deployment Link: https://pvang1987.github.io/Javascript-Project/Links
